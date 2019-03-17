@@ -16,7 +16,8 @@ public class MyTest {
 
   @AfterTest
   public void afterTest() {
-	  System.out.println("AfterTest");	  
+	  System.out.println("AfterTest");	
+	  System.out.println("Test for commit in GIT");
   }
 
 }
